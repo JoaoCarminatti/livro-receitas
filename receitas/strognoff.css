@@ -1,0 +1,50 @@
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(168, 212, 219);
+    font-weight: 700;
+    font-size: 55px;
+    text-shadow: 0.3em 0.2em 0.1em rgb(20, 34, 80);
+    border-bottom-width: medium;
+    border-bottom-style: solid;
+    border-bottom-color: white;
+}
+
+body {
+    background-image: url("../receitas/strogonoffdecogumeloskoken.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    line-height: 1.5;
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 45px;
+    text-align: center;
+}
+
+a {
+    font-size: 27px;
+    color: rgb(168, 212, 219);
+    font-weight: 700;
+    text-shadow: 0.3em 0.2em 0.1em rgb(20, 34, 80);
+}
+
+li {
+    font-size: 27px;
+    color: rgb(168, 212, 219);
+    font-weight: 700;
+    text-shadow: 0.3em 0.2em 0.1em rgb(20, 34, 80);
+}
+
+ul {
+    text-align: center;
+}
+
+ol {
+    text-align: center;
+}
